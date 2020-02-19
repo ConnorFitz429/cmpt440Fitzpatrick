@@ -1,0 +1,4 @@
+8 pts
+I love the idea. However... This does not explain what is the input sequence that the DFA will validate. 
+The only concrete thing that I could identify was the alphabet. I don't believe a DFA can solve this problem. 
+At least it is not clear based on what you wrote.
